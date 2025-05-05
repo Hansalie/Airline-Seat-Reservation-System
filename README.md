@@ -11,9 +11,11 @@ A Java-based console application for managing airplane seat reservations, ticket
 - **Ticket information**: View detailed ticket information and total sales
 - **Search tickets**: Find ticket information by seat number
 
-![Ticket Information](screenshots/image1.png)
+<img src="screenshots/image1.png" alt="Ticket Information" width="60%"/>
 
-![Ticket Information](screenshots/image2.png)
+<br/>
+
+<img src="screenshots/image2.png" alt="Ticket Information" width="60%"/>
 
 ## Getting Started
 
